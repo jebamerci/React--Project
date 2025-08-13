@@ -11,7 +11,7 @@ const tableHeading =[
         icon: "✅"
     },
     {
-        colName: "Name",
+        colName: "Action",
         icon: "📛"
     }
 ]
